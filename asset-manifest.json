@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/orangeswaps/static/css/main.cce6cf93.css",
-    "main.js": "/orangeswaps/static/js/main.3f46178c.js",
-    "index.html": "/orangeswaps/index.html",
-    "main.cce6cf93.css.map": "/orangeswaps/static/css/main.cce6cf93.css.map",
-    "main.3f46178c.js.map": "/orangeswaps/static/js/main.3f46178c.js.map"
+    "main.css": "/orange-swaps/static/css/main.cce6cf93.css",
+    "main.js": "/orange-swaps/static/js/main.3f46178c.js",
+    "index.html": "/orange-swaps/index.html",
+    "main.cce6cf93.css.map": "/orange-swaps/static/css/main.cce6cf93.css.map",
+    "main.3f46178c.js.map": "/orange-swaps/static/js/main.3f46178c.js.map"
   },
   "entrypoints": [
     "static/css/main.cce6cf93.css",
